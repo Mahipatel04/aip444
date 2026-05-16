@@ -11,6 +11,9 @@ console.log("git-cm: Developed by Mahi - 162637227");
 console.log(`Run Date: ${now.toLocaleString()}`);
 console.log("--------------------------------------------------------------");
 
+// Detect creative mode
+const isCreative = process.argv.includes("--creative");
+
 const apiKey = process.env.OPENROUTER_API_KEY;
 
 if (!apiKey) {
@@ -35,7 +38,8 @@ if (!diff) {
 
 console.log(`✅ Diff found: ${diff.length} characters`);
 
-const systemPrompt = `
+// Default system prompt
+let systemPrompt = `
 You are an LLM running in a CLI tool that writes git commit messages.
 
 You will be given a git diff.
@@ -50,10 +54,33 @@ feat: add login button
 fix(auth): handle null user error
 `;
 
+// Default temperature
+let temperature = 0.1;
+
+// Creative mode changes
+if (isCreative) {
+  console.log("🎨 Creative Mode Enabled");
+
+  systemPrompt = `
+You are a pirate programmer from the 17th century.
+
+Write funny git commit messages using pirate slang and Gitmoji.
+
+Return ONLY the commit message.
+
+Examples:
+🏴‍☠️ feat: add shiny new treasure map
+🦜 fix: patch leaky ship code matey
+`;
+
+  temperature = 1.5;
+}
+
 const main = async () => {
   try {
     const response = await client.chat.completions.create({
       model: "openai/gpt-4.1-nano",
+      temperature: temperature,
       messages: [
         {
           role: "system",
@@ -76,5 +103,5 @@ const main = async () => {
     console.log(err.message);
   }
 };
-
+// creative mode test
 main();
