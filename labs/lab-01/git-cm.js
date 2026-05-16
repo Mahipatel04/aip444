@@ -103,5 +103,5 @@ const main = async () => {
     console.log(err.message);
   }
 };
-// creative mode test
+// normal mode test
 main();
