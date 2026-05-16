@@ -1,5 +1,7 @@
 import dotenv from "dotenv";
 import path from "path";
+import OpenAI from "openai";
+import { execSync } from "child_process";
 
 dotenv.config({ path: path.resolve("../../.env") });
 
@@ -11,11 +13,68 @@ console.log("--------------------------------------------------------------");
 
 const apiKey = process.env.OPENROUTER_API_KEY;
 
-console.log("DEBUG KEY:", apiKey); // temporary debug line
-
 if (!apiKey) {
   console.log("❌ Error: OPENROUTER_API_KEY not found");
   process.exit(1);
 }
 
 console.log("✅ API Key loaded successfully");
+
+const client = new OpenAI({
+  baseURL: "https://openrouter.ai/api/v1",
+  apiKey: apiKey,
+});
+
+// Get staged git diff
+const diff = execSync("git diff --staged").toString();
+
+if (!diff) {
+  console.log("❌ No staged changes found");
+  process.exit(0);
+}
+
+console.log(`✅ Diff found: ${diff.length} characters`);
+
+const systemPrompt = `
+You are an LLM running in a CLI tool that writes git commit messages.
+
+You will be given a git diff.
+
+Return ONLY a conventional commit message.
+No explanations.
+No markdown.
+No quotes.
+
+Example:
+feat: add login button
+fix(auth): handle null user error
+`;
+
+const main = async () => {
+  try {
+    const response = await client.chat.completions.create({
+      model: "openai/gpt-4.1-nano",
+      messages: [
+        {
+          role: "system",
+          content: systemPrompt,
+        },
+        {
+          role: "user",
+          content: diff,
+        },
+      ],
+    });
+
+    const commitMessage = response.choices[0].message.content;
+
+    console.log("\n🤖 Generated Commit Message:");
+    console.log(commitMessage);
+
+  } catch (err) {
+    console.log("❌ Error generating commit message");
+    console.log(err.message);
+  }
+};
+
+main();
