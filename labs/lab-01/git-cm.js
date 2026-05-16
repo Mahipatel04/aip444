@@ -1,3 +1,4 @@
+//Hello this is my first lab 
 import dotenv from "dotenv";
 import path from "path";
 import OpenAI from "openai";
@@ -103,6 +104,5 @@ const main = async () => {
     console.log(err.message);
   }
 };
-// normal mode test
-// pirate creative test
+
 main();
