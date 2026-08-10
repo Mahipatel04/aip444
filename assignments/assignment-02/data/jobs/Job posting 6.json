@@ -1,0 +1,37 @@
+{
+  "job_title": "Python Operator",
+  "company_name": "Technical Concrete Solutions",
+  "location": "Holland Landing, ON",
+  "posting_age_days": null,
+  "required_skills": [
+    "Proficiency in Python programming",
+    "Experience in automation, scripting, or application support",
+    "Basic knowledge of databases (SQL or NoSQL)",
+    "Familiarity with Linux/Windows command line operations",
+    "Understanding of version control (e.g., Git)"
+  ],
+  "preferred_skills": [
+    "Machine Operator experience"
+  ],
+  "experience_level": "1 year (preferred)",
+  "education_requirements": "not listed",
+  "salary_range": null,
+  "key_responsibilities": [
+    "Develop, test, and maintain Python scripts or programs for automation, data processing, and system tasks",
+    "Operate and monitor Python-based applications to ensure smooth daily execution",
+    "Debug and troubleshoot errors in Python code and suggest improvements",
+    "Integrate Python scripts with databases, APIs, or third-party tools",
+    "Document code, workflows, and standard operating procedures",
+    "Collaborate with IT, data, or engineering teams to improve efficiency through automation",
+    "Perform scheduled or on-demand runs of Python programs and verify outputs",
+    "Ensure compliance with coding best practices and security guidelines"
+  ],
+  "company_research": {
+    "company_size": "SME",
+    "industry": "Construction",
+    "recent_news": "Today at our 45,000 sq. ft. Structural Steel, Pre-Engineering Building, and Miscellaneous Metals Facility in Holland Landing",
+    "culture_signals": "3.0 out of 5 stars from employee reviews",
+    "founded_year": null
+  },
+  "slug": "python-operator-technical-concrete-solutions"
+}

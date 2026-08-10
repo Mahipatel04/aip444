@@ -1,0 +1,34 @@
+{
+  "job_title": "Developer",
+  "company_name": "New Market Group",
+  "location": "200 Davis Drive, Newmarket, ON L3Y 2N4",
+  "posting_age_days": null,
+  "required_skills": [
+    ".NET",
+    "SQL Server",
+    "Analysis & Design",
+    "communication",
+    "time management",
+    "project management"
+  ],
+  "preferred_skills": [
+    "Bachelor's Degree",
+    "English"
+  ],
+  "experience_level": "10 years",
+  "education_requirements": "Bachelor's Degree (preferred)",
+  "salary_range": "$110,000\u2013$130,000 a year",
+  "key_responsibilities": [
+    "Develop high-impact customer centric solutions",
+    "Work with the Development Manager",
+    "Grow with the development team"
+  ],
+  "company_research": {
+    "company_size": "SME",
+    "industry": "Advertising Services",
+    "recent_news": "New Market Group is among the leading portfolio of marketing groups in North America, managing groups in various industries since 1978.",
+    "culture_signals": "NMG has a focus on employee growth and offers a comprehensive benefits package.",
+    "founded_year": "1978"
+  },
+  "slug": "developer-new-market-group"
+}

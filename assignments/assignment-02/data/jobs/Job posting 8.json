@@ -1,0 +1,43 @@
+{
+  "job_title": "Software Engineer",
+  "company_name": "Inbox Monster",
+  "location": "Hybrid work",
+  "posting_age_days": null,
+  "required_skills": [
+    "BS/MS in Computer Science or equivalent",
+    "5 years of software industry experience",
+    "Programming Experience in PHP/Javascript",
+    "Experience in modern web development with Laravel or Symfony frameworks",
+    "Experience translating design mockups and prototypes into working applications",
+    "Passion for user experience and improving usability",
+    "Good communication skills, both written and verbal"
+  ],
+  "preferred_skills": [
+    "Experience building large scale software and application architecture",
+    "Strong knowledge of data structures, algorithms, and designing for performance, scalability, availability",
+    "Understanding of Web Application Security best practices",
+    "Interest in usability",
+    "Mentoring experience",
+    "Strong sense of ownership, urgency, and drive",
+    "Experience and working knowledge with AI, AI Agents and LLM frameworks"
+  ],
+  "experience_level": "5 years",
+  "education_requirements": "Bachelor's Degree (required)",
+  "salary_range": "$85,000\u2013$100,000 a year",
+  "key_responsibilities": [
+    "Sharing knowledge and contributing constructively to discussions",
+    "Staying current on industry best practices and how they can be used to continuously improve the Engineering team\u2019s tools and processes",
+    "Pinpointing deficiencies in systems and code; Actively pursuing all means toward improvement and thinking critically",
+    "Contributing to the team\u2019s success by understanding and working towards prevailing objectives",
+    "Adhering to coding standards and processes agreed upon by the team",
+    "Ensuring security goals are met and exceeded by following SDLC pattern"
+  ],
+  "company_research": {
+    "company_size": "unknown",
+    "industry": "Email Deliverability and Analytics",
+    "recent_news": "Inbox Monster joins Iterable\u2019s global partner network, enhancing customer communications solutions.",
+    "culture_signals": "The company has above-average expectations for its team members and huge ambitions for its business.",
+    "founded_year": null
+  },
+  "slug": "software-engineer-inbox-monster"
+}

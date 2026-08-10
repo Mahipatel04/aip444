@@ -1,0 +1,48 @@
+{
+  "job_title": "Junior SDET",
+  "company_name": "Orchestry Software",
+  "location": "Remote (Canada)",
+  "posting_age_days": null,
+  "required_skills": [
+    "Bachelor's degree in Computer Science or related field",
+    "Understanding of software development fundamentals",
+    "Experience programming in JavaScript/TypeScript, C#, or Python",
+    "Familiarity with automated testing concepts",
+    "Exposure to automated testing frameworks like Playwright, Cypress, Selenium",
+    "Familiarity with source control systems like Git",
+    "Understanding of Agile software development practices",
+    "Strong analytical and problem-solving skills",
+    "Strong written and verbal communication skills"
+  ],
+  "preferred_skills": [
+    "Experience writing automated UI or API tests",
+    "Familiarity with Azure DevOps or similar CI/CD platforms",
+    "Experience working on personal, academic, or open-source software projects",
+    "Knowledge of REST APIs and API testing tools",
+    "Experience using Playwright"
+  ],
+  "experience_level": "Entry-level",
+  "education_requirements": "Bachelor's degree, diploma, or equivalent education in Computer Science, Software Engineering, Computer Engineering, or a related technical discipline",
+  "salary_range": "85,000 - 98,000 CAD per year",
+  "key_responsibilities": [
+    "Execute manual, exploratory, and regression testing for new features and product enhancements",
+    "Design, write, maintain, and execute automated test cases using our automation framework",
+    "Investigate, reproduce, and document software defects",
+    "Validate builds and releases through both manual and automated testing",
+    "Collaborate closely with Software Developers and QA Engineers",
+    "Help maintain and improve our automated test suites",
+    "Learn and apply testing best practices across UI, API, and integration testing",
+    "Participate in Agile ceremonies",
+    "Contribute to test documentation and knowledge sharing",
+    "Build proficiency with our engineering toolchain",
+    "Continuously improve your understanding of our product and quality engineering practices"
+  ],
+  "company_research": {
+    "company_size": "SME",
+    "industry": "SaaS",
+    "recent_news": "Orchestry ranked #15 in Deloitte's Technology Fast 50\u2122 Companies-to-Watch and #8 on LinkedIn Top Startups 2025 in Canada",
+    "culture_signals": "Collaborative team environment, focus on continuous learning and quality software development",
+    "founded_year": "null"
+  },
+  "slug": "junior-sdet-orchestry-software"
+}

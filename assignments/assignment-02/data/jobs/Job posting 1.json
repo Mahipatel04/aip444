@@ -1,0 +1,49 @@
+{
+  "job_title": "PHP web developer",
+  "company_name": "Accuenergy",
+  "location": "Toronto, ON, CA",
+  "posting_age_days": 40,
+  "required_skills": [
+    "PHP",
+    "MySQL",
+    "Apache",
+    "Linux",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "API integrations",
+    "Bitbucket",
+    "Jira"
+  ],
+  "preferred_skills": [
+    "WordPress",
+    "WooCommerce",
+    "Next.js",
+    "CDN",
+    "caching strategies"
+  ],
+  "experience_level": "4+ years",
+  "education_requirements": "Bachelor's degree or equivalent experience in Computer Science",
+  "salary_range": "$50,000.00 To $80,000.00 Annually",
+  "key_responsibilities": [
+    "Plan, develop, and maintain company website using PHP, JavaScript, HTML, CSS, MySQL, Apache, Linux and other relevant technologies",
+    "Plan and execute API integrations such as HubSpot, Zoho, Dynamics",
+    "Utilize Bitbucket for version and source control",
+    "Participate in meetings to provide project updates, issues, learnings, and ideas",
+    "Manage and prioritize multiple project requests using Jira",
+    "Document and organize all implementation procedures",
+    "Develop testing process and procedure plan for implementations",
+    "Refactor existing code to improve code design, structure, and implementation",
+    "Ensure Occupational Health and Safety compliance with health and safety laws and regulations",
+    "Follow all procedures in compliance of Accuenergy (Canada) Inc standard policy and operation regulations",
+    "Any other operation-related responsibilities may be added as company continues to grow."
+  ],
+  "company_research": {
+    "company_size": "SME",
+    "industry": "Energy Management",
+    "recent_news": "Accuenergy is a fast-growing company at the forefront of the energy management industry.",
+    "culture_signals": "Accuenergy is committed to fostering a diverse and inclusive workplace where all employees are empowered to thrive.",
+    "founded_year": "1998"
+  },
+  "slug": "php-web-developer-accuenergy"
+}

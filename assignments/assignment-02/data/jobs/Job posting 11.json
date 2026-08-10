@@ -1,0 +1,52 @@
+{
+  "job_title": "Junior Quality Assurance Automation Analyst",
+  "company_name": "CGI",
+  "location": "Canada, Ontario, Toronto",
+  "posting_age_days": null,
+  "required_skills": [
+    "Selenium WebDriver",
+    "Java",
+    "QA Automation",
+    "SDLC",
+    "STLC",
+    "Regression Testing",
+    "Functional Testing",
+    "Defect Management Tools",
+    "Agile/Scrum"
+  ],
+  "preferred_skills": [
+    "Banking",
+    "Salesforce Testing",
+    "API Testing",
+    "Postman",
+    "REST Assured",
+    "Git",
+    "Jenkins",
+    "Basic SQL",
+    "BDD/Cucumber",
+    "CI/CD"
+  ],
+  "experience_level": "1\u20133 years",
+  "education_requirements": "Bachelor's degree in Computer Science, Information Technology, or related discipline",
+  "salary_range": "$55,000\u2013$105,000",
+  "key_responsibilities": [
+    "Develop, maintain, and execute automated test scripts using Selenium WebDriver and Java.",
+    "Perform functional, regression, integration, and smoke testing.",
+    "Design and maintain automation frameworks for web applications.",
+    "Identify, document, and track software defects using defect management tools.",
+    "Collaborate with developers, business analysts, and product owners to understand requirements.",
+    "Participate in sprint planning, backlog grooming, and Agile ceremonies.",
+    "Execute manual testing when automation is not feasible.",
+    "Maintain test cases and testing documentation.",
+    "Support CI/CD testing initiatives.",
+    "Participate in production validation and release testing."
+  ],
+  "company_research": {
+    "company_size": "enterprise",
+    "industry": "IT and business consulting services",
+    "recent_news": "CGI is one of the largest IT and business consulting services firms in the world, providing technology-driven solutions and services.",
+    "culture_signals": "CGI values ownership, teamwork, respect, and belonging, fostering a diverse and inclusive workplace.",
+    "founded_year": "1976"
+  },
+  "slug": "junior-quality-assurance-automation-analyst-cgi"
+}

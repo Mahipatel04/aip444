@@ -1,0 +1,47 @@
+{
+  "job_title": "Junior Software Engineer",
+  "company_name": "Scotiabank",
+  "location": "Canada : Ontario : Toronto",
+  "posting_age_days": null,
+  "required_skills": [
+    "Java",
+    "JavaScript",
+    "Python",
+    "relational databases",
+    "NoSQL databases",
+    "RESTful APIs",
+    "CI/CD",
+    "version control (Git)",
+    "cloud platforms (GCP, Azure)",
+    "problem-solving",
+    "communication skills"
+  ],
+  "preferred_skills": [
+    "eager to learn",
+    "collaborative environment"
+  ],
+  "experience_level": "Entry-level",
+  "education_requirements": "not listed",
+  "salary_range": null,
+  "key_responsibilities": [
+    "Contributes to the overall success of the Global Payments Technology",
+    "Ensure all activities conducted are following governing regulations",
+    "Champions a customer focused culture",
+    "Write clean, maintainable, and well documented code",
+    "Help document software features and perform reviews",
+    "Participate in code reviews, unit testing, and debugging",
+    "Learn and adapt to CI/CD pipelines and cloud deployment practices",
+    "Follow guidance from senior team members",
+    "Understand the Bank\u2019s risk appetite and risk culture",
+    "Actively pursues effective and efficient operations",
+    "Champions a high performance environment"
+  ],
+  "company_research": {
+    "company_size": "enterprise",
+    "industry": "banking and financial services",
+    "recent_news": "Scotiabank continues to be an industry leader for Payment\u2019s technology and innovation.",
+    "culture_signals": "Diversity, Equity, Inclusion & Allyship; Accessibility and Workplace Accommodations; Community Engagement",
+    "founded_year": "1832"
+  },
+  "slug": "junior-software-engineer-scotiabank"
+}

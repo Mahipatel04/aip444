@@ -1,0 +1,51 @@
+{
+  "job_title": "Full Stack Developer",
+  "company_name": "InfoTrack Canada",
+  "location": "Toronto, ON",
+  "posting_age_days": null,
+  "required_skills": [
+    "React",
+    "TypeScript",
+    "HTML/CSS",
+    "C#",
+    "ASP.NET Core",
+    "relational databases",
+    "PostgreSQL",
+    "MySQL"
+  ],
+  "preferred_skills": [
+    "legal tech",
+    "conveyancing",
+    "fintech",
+    "cloud platform experience",
+    "AWS",
+    "Azure",
+    "GCP",
+    "DevOps",
+    "CI/CD",
+    "containerization",
+    "Docker",
+    "Kubernetes",
+    "Agile delivery"
+  ],
+  "experience_level": "3+ years",
+  "education_requirements": "not listed",
+  "salary_range": "$110,000\u2013$130,000 a year",
+  "key_responsibilities": [
+    "Build and ship full-stack features across our React/TypeScript front end and C#/.NET back end",
+    "Work as part of a squad alongside product and design",
+    "Use AI to move faster by pairing with coding tools",
+    "Bring a product mindset by understanding users and domain",
+    "Contribute to technical decisions",
+    "Collaborate with global platform team",
+    "Write clean, maintainable code"
+  ],
+  "company_research": {
+    "company_size": "unknown",
+    "industry": "legal technology",
+    "recent_news": "InfoTrack is a leading innovator in legal technology and pioneers of property conveyancing automation.",
+    "culture_signals": "The company culture is described as uniquely outstanding, flexible, forward-thinking, and inclusive.",
+    "founded_year": "null"
+  },
+  "slug": "full-stack-developer-infotrack-canada"
+}

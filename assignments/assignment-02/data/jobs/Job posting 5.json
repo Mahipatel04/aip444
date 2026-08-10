@@ -1,0 +1,38 @@
+{
+  "job_title": "Software Developer",
+  "company_name": "Medaca",
+  "location": "2255 Sheppard Avenue East, Toronto, ON M2J 4Y1",
+  "posting_age_days": null,
+  "required_skills": [
+    "PHP",
+    "MySQL",
+    "Javascript",
+    "Bootstrap",
+    "Git",
+    "MVC",
+    "service oriented architecture",
+    "Docker",
+    "CI/CD",
+    "AWS",
+    "GitHub"
+  ],
+  "preferred_skills": [],
+  "experience_level": "5+ years",
+  "education_requirements": "Bachelors degree required",
+  "salary_range": "$80,000\u2013$90,000 a year",
+  "key_responsibilities": [
+    "Designing, developing, supporting, and implementing software solutions",
+    "Improving operational efficiency, system functionality, and user experience",
+    "Collaborating closely with internal teams and end-users",
+    "Working remotely from the Greater Toronto Area",
+    "Cross-training on other platforms used across the organization"
+  ],
+  "company_research": {
+    "company_size": "unknown",
+    "industry": "Psychiatric Services",
+    "recent_news": "",
+    "culture_signals": "",
+    "founded_year": null
+  },
+  "slug": "software-developer-medaca"
+}

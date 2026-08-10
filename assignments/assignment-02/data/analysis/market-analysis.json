@@ -1,0 +1,154 @@
+{
+  "total_postings_analyzed": 11,
+  "top_required_skills": [
+    {
+      "skill": "JavaScript",
+      "count": 6,
+      "percentage": 54.55
+    },
+    {
+      "skill": "MySQL",
+      "count": 5,
+      "percentage": 45.45
+    },
+    {
+      "skill": "HTML",
+      "count": 5,
+      "percentage": 45.45
+    },
+    {
+      "skill": "CSS",
+      "count": 5,
+      "percentage": 45.45
+    },
+    {
+      "skill": "Git",
+      "count": 5,
+      "percentage": 45.45
+    },
+    {
+      "skill": "Agile",
+      "count": 4,
+      "percentage": 36.36
+    },
+    {
+      "skill": "PHP",
+      "count": 1,
+      "percentage": 9.09
+    },
+    {
+      "skill": "Java",
+      "count": 2,
+      "percentage": 18.18
+    },
+    {
+      "skill": "Python",
+      "count": 3,
+      "percentage": 27.27
+    },
+    {
+      "skill": "C#",
+      "count": 3,
+      "percentage": 27.27
+    },
+    {
+      "skill": "React",
+      "count": 2,
+      "percentage": 18.18
+    },
+    {
+      "skill": "TypeScript",
+      "count": 3,
+      "percentage": 27.27
+    },
+    {
+      "skill": "Selenium",
+      "count": 1,
+      "percentage": 9.09
+    },
+    {
+      "skill": "RESTful API",
+      "count": 2,
+      "percentage": 18.18
+    },
+    {
+      "skill": "Docker",
+      "count": 2,
+      "percentage": 18.18
+    }
+  ],
+  "top_preferred_skills": [
+    {
+      "skill": "JavaScript",
+      "count": 4,
+      "percentage": 36.36
+    },
+    {
+      "skill": "API Testing",
+      "count": 2,
+      "percentage": 18.18
+    },
+    {
+      "skill": "Git",
+      "count": 3,
+      "percentage": 27.27
+    },
+    {
+      "skill": "CI/CD",
+      "count": 3,
+      "percentage": 27.27
+    },
+    {
+      "skill": "Cloud platforms (AWS, GCP, Azure)",
+      "count": 3,
+      "percentage": 27.27
+    },
+    {
+      "skill": "Automated Testing",
+      "count": 3,
+      "percentage": 27.27
+    },
+    {
+      "skill": "Java",
+      "count": 2,
+      "percentage": 18.18
+    },
+    {
+      "skill": "Kotlin",
+      "count": 1,
+      "percentage": 9.09
+    },
+    {
+      "skill": "React",
+      "count": 2,
+      "percentage": 18.18
+    },
+    {
+      "skill": "Selenium",
+      "count": 1,
+      "percentage": 9.09
+    }
+  ],
+  "common_experience_levels": [
+    "Entry-level",
+    "1-3 years",
+    "2-5+ years",
+    "3+ years",
+    "4+ years",
+    "New Grad"
+  ],
+  "salary_insights": "Salary ranges vary significantly, with entry-level positions starting around $50,000 and going up to $130,000 for more experienced roles. The average salary range for mid-level positions is approximately $70,000 to $105,000 CAD annually.",
+  "common_responsibilities": [
+    "Develop, maintain, and execute automated test scripts",
+    "Collaborate with developers and product managers",
+    "Design and maintain automation frameworks",
+    "Participate in Agile ceremonies",
+    "Write clean, maintainable code",
+    "Troubleshoot and debug applications",
+    "Execute manual testing when automation is not feasible",
+    "Document and track software defects"
+  ],
+  "education_trends": "A Bachelor's degree in Computer Science or a related field is the most common educational requirement across postings, with some positions also accepting equivalent experience.",
+  "industry_trends": "There is a strong demand for software development roles, particularly in web development, quality assurance, and financial technology. Companies are increasingly looking for candidates with experience in Agile methodologies and cloud technologies.",
+  "culture_insights": "Companies emphasize a collaborative and inclusive work environment, with a focus on continuous learning and professional development. Many organizations are also highlighting their commitment to diversity and employee empowerment."
+}

@@ -1,0 +1,49 @@
+{
+  "job_title": "Software Engineer",
+  "company_name": "Hybrid Financial Ltd.",
+  "location": "222 Bay Street, Toronto, ON M5J 2W4",
+  "posting_age_days": null,
+  "required_skills": [
+    "Angular",
+    "JavaScript",
+    "MySQL",
+    "Python",
+    "Node.js",
+    "GitHub",
+    "RESTful API design",
+    "microservices architecture",
+    "HTML",
+    "CSS",
+    "data structures",
+    "algorithms",
+    "system design"
+  ],
+  "preferred_skills": [
+    "Java",
+    "C#/.NET",
+    "Docker",
+    "Linux",
+    "cloud platforms (AWS, GCP, Azure)",
+    "automated testing frameworks"
+  ],
+  "experience_level": "2-5+ years",
+  "education_requirements": "not listed",
+  "salary_range": "$70,000\u2013$90,000 a year",
+  "key_responsibilities": [
+    "Design, develop, and maintain scalable software applications and services using modern frameworks and languages.",
+    "Write clean, well-tested code and participate in code reviews to maintain code quality standards.",
+    "Collaborate with product managers, designers, and other engineers to define and deliver features.",
+    "Build and optimize APIs, backend services, and user-facing features across the full stack.",
+    "Troubleshoot, debug, and optimize application performance and database queries.",
+    "Contribute to system architecture and technical design discussions.",
+    "Utilize version control (GitHub) and maintain CI/CD best practices."
+  ],
+  "company_research": {
+    "company_size": "51-200 employees",
+    "industry": "Financial Technology",
+    "recent_news": "N/A",
+    "culture_signals": "Inclusive, supportive team environment; mentorship from experienced senior developers; opportunities to lead projects and grow into mid-level roles.",
+    "founded_year": "2011"
+  },
+  "slug": "software-engineer-hybrid-financial-ltd"
+}
